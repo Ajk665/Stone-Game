@@ -1,1 +1,2 @@
-# Stone-Game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
